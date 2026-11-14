@@ -1,1 +1,1 @@
-# Python_Password_Magager
+# Python_Password_Manager
